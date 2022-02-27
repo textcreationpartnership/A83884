@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The agreement of the House of Lords, during this session, with the concurrence of the House of Commons, to this present eleventh. of February, in the great affair of these nations</title>
+            <title>Proceedings. 1689-02-11</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83884</idno>
+            <idno type="STC">Wing E2788</idno>
+            <idno type="STC">ESTC R212871</idno>
+            <idno type="EEBO-CITATION">99899988</idno>
+            <idno type="PROQUEST">99899988</idno>
+            <idno type="VID">135501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135501)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2499:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The agreement of the House of Lords, during this session, with the concurrence of the House of Commons, to this present eleventh. of February, in the great affair of these nations</title>
+                  <title>Proceedings. 1689-02-11</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Regarding the acceptance by Parliament of William and Mary as rulers.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Includes new oaths to replace the former oaths of allegiance and supremacy.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135501:1" rendition="simple:additions"/>
+            <head>The AGREEMENT of the Houſe of <hi>Lords,</hi> during this Seſſion, with the Concurrence of the Houſe of <hi>Commons,</hi> to this preſent Eleventh of <hi>February,</hi> in the Great Affair of theſe Nations.</head>
+            <p>WHereas the Late King <hi>James</hi> the Second, by the Aſſiſtance of divers Evil Counſellors, Judges and Miniſters, imployed by him, did en<g ref="char:EOLhyphen"/>deavour to Subvert and Extirpate the Proteſtant Religion, and the Laws and Liberties of this Kingdom,</p>
+            <p>By Aſſuming and Exerciſing a Power of Diſpenſing and Suſpending of Laws, and the Execution of Laws, without Conſent of Parliament.</p>
+            <p>By Committing and Proſecuting divers worthy Prelates, for Humbly Petitioning to be Excus'd from Concurring to the ſaid Aſſum'd Power.</p>
+            <p>By Iſſuing a Commiſſion under the Great Seal, for Erecting a Court called, a Court of Commiſſioners for Eccleſiaſtical Cauſes.</p>
+            <p>By Levying Mony for, and to the Uſe of the Crown, by Pretence of Prerogative, for other time, and in other manner than the ſame was Granted by Parliament.</p>
+            <p>By Raiſing and Keeping a Standing Army within this Kingdom, in time of Peace, without Conſent of Parliament.</p>
+            <p>By Cauſing ſeveral Good Subjects, being Proteſtants, to be Diſarm'd.</p>
+            <p>By Violating the Freedom of Election of Members to ſerve in Parliament.</p>
+            <p>By Cauſing Informations to be brought, and proſecuted in the Court of <hi>Kings-Bench,</hi> for Matters and Cauſes Cognizable only in Parliament, and by divers other Arbitrary and Illegal Courſes.</p>
+            <p>And whereas of late Years Partial, Corrupt, and Unqualified Perſons have been Re<g ref="char:EOLhyphen"/>turn'd, and Served on Juries in Tryals, particularly divers Jurors in Tryals for High Treaſons, which were not Freeholders.</p>
+            <p>And Exceſſive Bail hath been Required of Perſons Committed in Criminal Cauſes, to Exclude the Benefit of the Laws made for the Liberty of the Subjects.</p>
+            <p>And Exceſſive Fines have been Impoſed.</p>
+            <p>And Illegal and Cruel Puniſhments Inflicted.</p>
+            <p>And ſeveral Grants and Promiſes made of Fines and Forfeitures, before any Con<g ref="char:EOLhyphen"/>viction or Puniſhment againſt the Perſons upon whom the ſame were to be Levyed.</p>
+            <p>All which were utterly and directly contrary to the known Laws and Statutes, and Freedom of this Realm.</p>
+            <p>And whereas the ſaid Late King <hi>James</hi> the Second, having Abdicated the Govern<g ref="char:EOLhyphen"/>ment, and the Throne being thereby Vacant.</p>
+            <p>His Highneſs the Prince of <hi>Orange</hi> (whom it hath pleaſed Almighty God to make the Glorious Inſtrument of Delivering this Kingdom from Popery and Arbitrary Power) did, by the Advice of the Lords Spiritual and Temporal, and divers Prin<g ref="char:EOLhyphen"/>ciple Perſons of the Commons, Cauſe Letters to be Written to the Lords Spiritual and Temporal, being Proteſtants: And other Letters to the ſeveral Counties, Uni<g ref="char:EOLhyphen"/>verſities, Cities, Boroughs, and Cinque Ports, for the Chooſing of ſuch Perſons to Repreſent them as were of Right to be ſent to Parliament, to Meet and Sit at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> upon the Two and Twentieth Day of <hi>January,</hi> in this Year, 1688. in order to ſuch an Eſtabliſhment, as that their Religion, Laws, and Liberties might not again be in Danger to be Subverted.</p>
+            <p>Upon which Letters, Elections having been accordingly made: And thereupon the ſaid
+<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and the Commons ſo Elected, being now Aſſembled in a Full and Free Repreſentative of this Nation, taking into their Serious Conſideration the beſt means for attaining the Ends aforeſaid;</p>
+            <p>Do in the firſt place, as their Anceſtors in like caſe have uſually done, for the Vindicating and Aſſiſting their Antient Rights and Liberties, Unanimouſly Declare,</p>
+            <p>That the Pretended Power of Diſpenſing or Suſpending of Laws, or the Execution of Laws by Regal Authority, without Conſent of Parliament, is Illegal.</p>
+            <p>That the Commiſſion for Electing the late Court of Commiſſioners for Eccleſiaſtical
+<pb n="2" facs="tcp:135501:2" rendition="simple:additions"/>Cauſes, and all other Commiſſions and Courts of like Nature, are Illegal and Pernitious.</p>
+            <p>That Levying of Mony for or to the Uſe of the Crown by Pretence of Prerogative, without Grant of Parliament, or for longer time, or in other manner than the ſame is, or ſhall be Granted, is Illegal.</p>
+            <p>That it is the Right of the Subjects to Petition the King, and all Commitments and Proſecutions for ſuch Petitioning, are Illegal.</p>
+            <p>That the Raiſing or Keeping of a Standing Army within the Kingdom, in time of Peace, unleſs it be by Conſent of Parliament, is againſt Law.</p>
+            <p>That the Subjects, which are Proteſtants, may Provide and Keep Arms for their Common Defence.</p>
+            <p>That Election of Members of Parliament ought to be Free.</p>
+            <p>That the Freedom of Speech and Debates, or Proceedings in Parliament, ought not to be Queſtioned or Permitted in any Court, or place, out of Parliament.</p>
+            <p>The Exceſſive Bail ought not to be Required, nor Exceſſive Fines Impoſed, nor Cruel or Unuſual Puniſhments Inflicted.</p>
+            <p>That Jurors ought to be duly Impannelled and Returned; and Jurors, which paſs upon Men in Tryal for High Treaſon, ought to be Freeholders.</p>
+            <p>That all Grants and Promiſes of Fines and Forfeitures of particular Perſons, before Conviction, are Illegal and Void.</p>
+            <p>And for Redreſs of all Grievances, and for the Amending, Strengthning, and Pre<g ref="char:EOLhyphen"/>ſerving of the Laws, Parliaments ought to be held frequently, and ſuffer'd to Sit.</p>
+            <p>And they claim Demand, and inſiſt upon all and ſingular the Premiſes, as they are Undoubted Rights and Liberties: And that no Declaration, Judgments, Doings, or Proceedings, to the Prejudice of the People, in any of the ſaid Premiſes, or in any<g ref="char:EOLhyphen"/>wiſe to be drawn hereafter into Conſequence of Example.</p>
+            <p>To which Demand, or their Rights, they are particularly Invited by the Decla<g ref="char:EOLhyphen"/>ration of his Highneſs the Prince of <hi>Orange,</hi> as being the only Means for obtaining a full Redreſs and Remedy therein.</p>
+            <p>Having therefore an intire Conference, that his Highneſs the Prince of <hi>Orange,</hi> will Perfect the Deliverance ſo far advanced by him; and will ſtill Preſerve them upon the Violation of their Rights, which they have here Aſſerted, and from all other At<g ref="char:EOLhyphen"/>tempts upon their Religion, Laws and Liberties.</p>
+            <p>The ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and Commons Aſſembled at <hi>Weſtminſter,</hi> Do Reſolve, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+            </p>
+            <p>That the Prince and Princeſs of <hi>Orange,</hi> and be Declar'd King and Queen of <hi>Eng<g ref="char:EOLhyphen"/>land, France</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, to hold the Crown and Royal Dignity of the ſaid Kingdoms and Dominions to them during their Lives, and the Life of the Survivor of them: And that the Adminiſtration of the Government be only in, and Executed by the ſaid Prince of <hi>Orange,</hi> in the Names of the ſaid Prince and Princeſs during their Joynt Lives: And after their Deceaſes, the ſaid Crown and Royal Dignity of the ſaid Kingdoms and Dominions, to be to the Heirs of the Body of the ſaid Princeſs: And for Default of ſuch Iſſue, to the Princeſs <hi>Anne</hi> of <hi>Denmark,</hi> and the Heirs of her Body: And for Default of ſuch Iſſue, to the Heirs of the Body of the ſaid Prince of <hi>Orange.</hi>
+            </p>
+            <p>And they do pray the ſaid Prince and Princeſs of <hi>Orange,</hi> to accept the ſame accordingly.</p>
+            <p>And that the Oaths hereafter mentioned be taken by all Perſons of whom the Oaths of Allegiance and Supremacy might be required by Law, inſtead of them: And that the ſaid Oaths of Allegiance and Supremacy may be Abrogated.</p>
+            <p n="1">
+               <hi>I</hi> A. B. <hi>do ſincerely Promiſe and Swear, That I will be Faithful, and bear True Allegiance to Their Majeſties King</hi> William, <hi>and Queen</hi> Mary. So help me God.</p>
+            <p n="1">
+               <hi>I</hi> A. B. <hi>do Swear, That I do, from my Heart, Abhor and Deteſt, as Impious and Heretical, this Damnable Doctrin and Poſition, That Princes Excommunicated or Depriv'd by the Pope, or any Authority of the See of</hi> Rome, <hi>may be Depos'd or Murder'd by the Subjects, or any other whatſoever: And I do Declare, that no Foreign Prince, Perſon, Prelate, State or Potentate, hath, or ought to have, any Juriſdiction, Power, Superiority, Preheminence, or Authority Eccleſia<g ref="char:EOLhyphen"/>ſtical or Spiritual, within this Realm.</hi> So help me God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
